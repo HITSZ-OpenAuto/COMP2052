@@ -1,0 +1,12 @@
+GradeComposition:
+  - Name: "作业"
+    Percentage: 10
+  - Name: "实验"
+    Percentage: 20
+  - Name: "期末考试"
+    Percentage: 70
+CourseHourComposition:
+  - Name: "理论学时"
+    Hour: 40
+  - Name: "实验学时"
+    Hour: 16
