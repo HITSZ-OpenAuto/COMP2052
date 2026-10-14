@@ -1,11 +1,5 @@
 # COMP2052 - 数据结构与算法
 <!-- TOML-META: repo_type="normal" -->
-<!-- TOML-BADGES: source="grades_summary" -->
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![作业10%](https://img.shields.io/badge/作业-10%25-wheat)
-![实验20%](https://img.shields.io/badge/实验-20%25-wheat)
-![期末考试70%](https://img.shields.io/badge/期末考试-70%25-wheat)
 
 本门课由大一下开设的 3.5 学分的《数据结构》和大二上开设的 2.5 学分的《算法设计与分析》合并而来，对原有的课程内容进行了大幅的压缩删减，请注意使用资料时选择对应内容使用。
 
